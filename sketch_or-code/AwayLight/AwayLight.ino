@@ -86,7 +86,7 @@ void loop ()
 
   const int printHour = now.Hour();
 
-  if (printHour >= 18)
+  if (printHour >= 18 || printHour <= 7)
   {
     digitalWrite(Relay, HIGH);
   } else if (printHour <= 7) {
