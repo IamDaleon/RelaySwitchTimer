@@ -1,5 +1,11 @@
 # RelaySwitchTimer
 
+🚀 **Long Overdue Update Coming Soon** 🚀
+
+**I am excited to announce that this project is long-awaited update currently working on a ~~revision~~ overhaul is in the works and will be released very soon. I have currently been hard at work behind the scenes to bring you a gang of improvements and exciting new features that I can't wait to share with you.**
+
+**Stay tuned for this major update, which will enhance your experience and provide even more value to our users. We appreciate your continued support and patience as we put the finishing touches on this release.**
+
 This little device allows you to set a time ⏲ to when to turn on and off the device, that it is connected too. Leaving a light on constantly on is a huge waste of electricity 🔌, so let add a microcontroller to make it a little pockect saver on our pockets.
 
 ## Before getting started
